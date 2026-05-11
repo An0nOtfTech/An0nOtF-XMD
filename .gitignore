@@ -1,16 +1,67 @@
+# Dependencies
 node_modules/
-  An0nOtF-XMD-Session/
-  An0nOtF.session
-  settings.json
-  bans.json
-  database.json
-  security.json
-  prefixes.json
-  modes.json
-  owner.json
-  first_connection.flag
-  *.log
-  temp/
-  logs/
-  proxies.txt
-  
+
+# Session files
+*.session
+An0nOtF-XMD-Session/
+session/
+sessions/
+
+# Config files (sensitive data)
+settings.json
+bans.json
+security.json
+prefixes.json
+modes.json
+owner.json
+database.json
+first_connection.flag
+
+# Backups
+backup_*/
+*.tar
+*.tar.gz
+*.zip
+*.bak
+
+# Scripts
+*.sh
+*.bat
+*.exe
+
+# Logs and temp
+logs/
+temp/
+*.log
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PM2 files
+.pm2/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Misc
+*.tmp
+*.temp
