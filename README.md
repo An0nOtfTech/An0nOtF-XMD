@@ -131,7 +131,7 @@ This software is proprietary. For licensing inquiries, commercial use, or to pur
 | Name | Role |
 |---|---|
 | [Tylor](https://github.com/An0nOtFTech) | Developer 💻 |
-| Tiffany | Special Credit 💎 |
+| [M-axie](https://github.com/M-axie) | Special Credit 💎 |
 
 
 
