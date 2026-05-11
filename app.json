@@ -1,0 +1,68 @@
+{
+  "name": "An0nOtF XMD",
+  "description": "The Most Powerful WhatsApp Bot — An0nOtF Technologies Inc",
+  "repository": "https://github.com/An0nOtFTech/An0nOtF-XMD",
+  "logo": "https://files.catbox.moe/t85e1g.jpg",
+  "keywords": ["whatsapp", "bot", "nodejs", "baileys", "ai-chatbot"],
+  "env": {
+    "SESSION": {
+      "description": "Your session string from https://an0n0tf-xmd-pairing-server.vercel.app",
+      "required": true
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number with country code e.g 254712345678",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Your bot name",
+      "value": "An0nOtF XMD",
+      "required": false
+    },
+    "PREFIX": {
+      "description": "Command prefix",
+      "value": "!",
+      "required": false
+    },
+    "MODE": {
+      "description": "Bot mode: public, private or pm",
+      "value": "public",
+      "required": false
+    },
+    "AUTO_TYPING": {
+      "description": "Show typing animation before replies",
+      "value": "true",
+      "required": false
+    },
+    "AUTO_REACT": {
+      "description": "Auto react to commands with emoji",
+      "value": "true",
+      "required": false
+    },
+    "AUTO_VIEW_STATUS": {
+      "description": "Auto view WhatsApp statuses",
+      "value": "true",
+      "required": false
+    },
+    "AUTO_LIKE_STATUS": {
+      "description": "Auto like WhatsApp statuses",
+      "value": "true",
+      "required": false
+    },
+    "ALWAYS_ONLINE": {
+      "description": "Keep bot always online 24/7",
+      "value": "true",
+      "required": false
+    }
+  },
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+node_modules/
+  An0nOtF-XMD-Session/
+  An0nOtF.session
+  settings.json
+  bans.json
+  database.json
+  security.json
+  prefixes.json
+  modes.json
+  owner.json
+  first_connection.flag
+  *.log
+  temp/
+  logs/
+  proxies.txt
+  
