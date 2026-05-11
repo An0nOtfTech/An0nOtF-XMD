@@ -2,7 +2,7 @@
 
 <img src="https://files.catbox.moe/t85e1g.jpg" width="100%" />
 
-# 🅰️n0nOtF-V3 XMD
+# 🅰️n0nOtF XMD
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=An0nOtF+XMD+%F0%9F%A4%96;The+Most+Powerful+WhatsApp+Bot;Developed+by+Tylor+%F0%9F%92%8E;Checker+%7C+AI+Chatbot+%7C+Group+Tools;Don't+forget+to+%E2%AD%90+Star+%26+Fork!" alt="Typing SVG" />
 
