@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=An0nOtF+XMD+%F0%9F%A4%96;The+Most+Powerful+WhatsApp+Bot;Developed+by+Tylor+%F0%9F%92%8E;Checker+%7C+AI+Chatbot+%7C+Group+Tools;Don't+forget+to+%E2%AD%90+Star+%26+Fork!" alt="Typing SVG" />
 
-[![Version](https://img.shields.io/badge/Version-6.0.0-blue?style=for-the-badge)](https://github.com/An0nOtFTech/An0nOtF-XMD)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/An0nOtFTech/An0nOtF-XMD)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/An0nOtFTech/An0nOtF-XMD?style=for-the-badge&color=yellow)](https://github.com/An0nOtFTech/An0nOtF-XMD)
 [![Forks](https://img.shields.io/github/forks/An0nOtFTech/An0nOtF-XMD?style=for-the-badge&color=orange)](https://github.com/An0nOtFTech/An0nOtF-XMD)
