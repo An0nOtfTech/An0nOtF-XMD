@@ -2,7 +2,7 @@
   "name": "An0nOtF XMD",
   "description": "The Most Powerful WhatsApp Bot — An0nOtF Technologies Inc",
   "repository": "https://github.com/An0nOtFTech/An0nOtF-XMD",
-  "logo": "https://files.catbox.moe/t85e1g.jpg",
+  "logo": "https://raw.githubusercontent.com/An0nOtFTech/An0nOtF-XMD/main/assets/logo.png",
   "keywords": ["whatsapp", "bot", "nodejs", "baileys", "ai-chatbot"],
   "env": {
     "SESSION": {
