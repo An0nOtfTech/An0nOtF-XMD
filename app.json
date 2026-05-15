@@ -6,7 +6,7 @@
   "keywords": ["whatsapp", "bot", "nodejs", "baileys", "ai-chatbot"],
   "env": {
     "SESSION": {
-      "description": "Your session string from https://an0n0tf-xmd-pairing-server.vercel.app",
+      "description": "Your session string from https://an0n0tf-xmd-pairing-server.up.railway.app",
       "required": true
     },
     "OWNER_NUMBER": {
@@ -20,7 +20,7 @@
     },
     "PREFIX": {
       "description": "Command prefix",
-      "value": "!",
+      "value": ".",
       "required": false
     },
     "MODE": {
@@ -56,8 +56,7 @@
   },
   "formation": {
     "worker": {
-      "quantity": 1,
-      "size": "free"
+      "quantity": 1
     }
   },
   "buildpacks": [
