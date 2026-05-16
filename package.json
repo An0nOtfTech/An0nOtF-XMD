@@ -1,10 +1,9 @@
 {
-  "name": "an0n0tf-xmd",
+  "name": "an0notf-xmd",
   "version": "10.0.0",
   "description": "An0nOtF XMD WhatsApp Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "dev": "node index.js"
   },
   "dependencies": {
